@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-growl",
-  "homepage": "https://github.com/ifightcrime/bootstrap-growl",
+  "name": "bootstrap-growl-injectable",
+  "homepage": "https://github.com/pretzelwagon/bootstrap-growl",
   "main": [
     "jquery.bootstrap-growl.js"
   ],
@@ -9,9 +9,9 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.1.0",
-    "commit": "132647f01cab22cfa84d6036a75287dd52b490d1"
+    "commit": "cef96cb8f493b7b586f376acf0d077830bd987bb"
   },
-  "_source": "git://github.com/ifightcrime/bootstrap-growl.git",
+  "_source": "git://github.com/pretzelwagon/bootstrap-growl.git",
   "_target": "~1.1.0",
-  "_originalSource": "bootstrap-growl"
+  "_originalSource": "bootstrap-growl-injectable"
 }
